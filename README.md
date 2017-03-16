@@ -1,8 +1,6 @@
 #Android Keystore Example
 
-Example demonstrating how to use [KeyStore][https://developer.android.com/reference/java/security/KeyStore.html] and generate keys
-
-The purpose of the project is to show how to generate keys, store them in keystore, and use them for encryption and decryption.
+Example demonstrating how to use [KeyStore](https://developer.android.com/reference/java/security/KeyStore.html) and generate keys, store them in keystore, and use them for encryption and decryption.
 
 References
 
